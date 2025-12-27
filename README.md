@@ -1,4 +1,4 @@
-# nextjs-fullstack-blog
+# Nextjs-Fullstack-Blog
 A full-stack personal blog built with Next.js
 
 ## The Golden Stack
